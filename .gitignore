@@ -1,0 +1,4 @@
+certs/
+config.js
+upload.sh
+node_modules/
